@@ -1,3 +1,5 @@
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
+
 # GHAA — GitHub Actions with Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
