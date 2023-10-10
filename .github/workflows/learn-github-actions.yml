@@ -9,4 +9,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '14'
+      - name: 'Create .npmrc file in workspace to install ansys packages'
+      - run: |
+          echo "registry=https://onscale.jfrog.io/artifactory/api/npm/default-npm-virtual/" >> .npmrc
+          echo "//onscale.jfrog.io/artifactory/api/npm/default-npm-virtual/=true" >> .npmrc
       - run: npm install @ansys/awc-angular
