@@ -14,4 +14,5 @@ jobs:
       - run: |
           echo "registry=https://onscale.jfrog.io/artifactory/api/npm/default-npm-virtual/" >> .npmrc
           echo "//onscale.jfrog.io/artifactory/api/npm/default-npm-virtual/=true" >> .npmrc
+      - name: Install awc-angular
       - run: npm install @ansys/awc-angular
