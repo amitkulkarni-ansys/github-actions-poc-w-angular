@@ -1,3 +1,1 @@
-*.ts text eol=lf
-*.html text eol=lf
-*.scss text eol=lf
+* text eol=crlf
