@@ -1,0 +1,68 @@
+{
+    "name": "Font",
+    "deprecated": false,
+    "deprecationMessage": "",
+    "description": "List of available typography styles. These styles are used to deterimine the common sizing and scaling of text across multiple dimensions. Including: font-size, line-height, letter-spacing etc",
+    "values": {
+      "_3X_LARGE_HEADING_BOLD": {
+        "name": "_3X_LARGE_HEADING_BOLD",
+        "value": "3x-large-heading-bold"
+      },
+      "_2X_LARGE_HEADING_BOLD": {
+        "name": "_2X_LARGE_HEADING_BOLD",
+        "value": "2x-large-heading-bold"
+      },
+      "X_LARGE_HEADING_BOLD": {
+        "name": "X_LARGE_HEADING_BOLD",
+        "value": "x-large-heading-bold"
+      },
+      "LARGE_HEADING_SEMIBOLD": {
+        "name": "LARGE_HEADING_SEMIBOLD",
+        "value": "large-heading-semibold"
+      },
+      "MEDIUM_HEADING_SEMIBOLD": {
+        "name": "MEDIUM_HEADING_SEMIBOLD",
+        "value": "medium-heading-semibold"
+      },
+      "SMALL_HEADING_SEMIBOLD": {
+        "name": "SMALL_HEADING_SEMIBOLD",
+        "value": "small-heading-semibold"
+      },
+      "LARGE_BODY_REGULAR": {
+        "name": "LARGE_BODY_REGULAR",
+        "value": "large-body-regular"
+      },
+      "LARGE_BODY_SEMIBOLD": {
+        "name": "LARGE_BODY_SEMIBOLD",
+        "value": "large-body-semibold"
+      },
+      "MEDIUM_BODY_REGULAR": {
+        "name": "MEDIUM_BODY_REGULAR",
+        "value": "medium-body-regular"
+      },
+      "MEDIUM_BODY_SEMIBOLD": {
+        "name": "MEDIUM_BODY_SEMIBOLD",
+        "value": "medium-body-semibold"
+      },
+      "SMALL_BODY_REGULAR": {
+        "name": "SMALL_BODY_REGULAR",
+        "value": "small-body-regular"
+      },
+      "SMALL_BODY_SEMIBOLD": {
+        "name": "SMALL_BODY_SEMIBOLD",
+        "value": "small-body-semibold"
+      },
+      "SMALL_CAPTION_REGULAR": {
+        "name": "SMALL_CAPTION_REGULAR",
+        "value": "small-caption-regular"
+      },
+      "SMALL_CAPTION_SEMIBOLD": {
+        "name": "SMALL_CAPTION_SEMIBOLD",
+        "value": "small-caption-semibold"
+      },
+      "MEDIUM_BODY_MONO_REGULAR": {
+        "name": "MEDIUM_BODY_MONO_REGULAR",
+        "value": "medium-body-mono-regular"
+      }
+    }
+  }
